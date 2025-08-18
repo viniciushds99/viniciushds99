@@ -1,5 +1,8 @@
 <h1 align="center">Olá! Bem-vindo ao meu Github.👋</h1>
 <div align="center">
+  <img src="https://i.redd.it/1d11s820dgm91.gif"/>
+</div>
+<div align="center">
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-henrique-da-silva-1362b8226)
 
