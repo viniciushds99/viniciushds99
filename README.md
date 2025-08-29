@@ -19,7 +19,7 @@
 </a>
 </div>
 
-<h2 align="center">Tecnologias Front-end</h2> 
+<h2 align="center">Tecnologias Front-End</h2> 
 <div align="center">
   <img align="center" height="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
